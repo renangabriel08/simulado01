@@ -22,7 +22,7 @@ class Biometria {
             context,
             Home.routeName,
             arguments: ScreenArguments(
-              '12',
+              'https://randomuser.me/api/portraits/men/83.jpg',
               'teste',
               'teste@gmail.com',
             ),

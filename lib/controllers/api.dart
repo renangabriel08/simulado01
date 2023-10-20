@@ -27,8 +27,6 @@ class Api {
             email,
           ),
         );
-
-        print(decodedToken);
       } else {
         MyToast.gerarToast('Erro ao logar');
       }
